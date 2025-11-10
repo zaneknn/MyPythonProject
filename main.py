@@ -1,6 +1,6 @@
 # main.py
 def greet():
-    print("Hello, Git people! This is version 1.3.")
+    print("Hello, Git! This is version 1.5.")
 
 
 if __name__ == "__main__":
